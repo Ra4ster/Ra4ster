@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**Jackrose320/Jackrose320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <span style="font-family: 'Courier New', monospace;"><b>Hello, I'm Jack! 👋</b></span>
+</h1>
+<h4 align="left">
+  Proficiencies:
+  <li>Java</li>
+  <li>HTML / CSS / JS</li>
+  <li>Angular js (basic proficiency)</li>
+  <li>Python</li>
+  <li>R</li>
+</h4>
+<h4 align="right">
+  This is my dog
+  
+</h4>
