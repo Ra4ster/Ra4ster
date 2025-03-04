@@ -1,7 +1,7 @@
 <h1>Hello, I'm Jack Rose! 👋</h1>
 <p>He/Him ♂️ | 19, Sophomore (Class of 2028) 🎓 | Student at THE Ohio State University 🎒</p>
 <p> Here's a picture of my dog:
-<a href="https://raw.githubusercontent.com/Jackrose320/Jackrose320/refs/heads/main/IMG_0153.jpg"></a></p>
+<img src="https://raw.githubusercontent.com/Jackrose320/Jackrose320/refs/heads/main/IMG_0153.jpg" alt="dawg" width=50></p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
