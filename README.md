@@ -34,6 +34,9 @@
     <td>
       <img src="https://komarev.com/ghpvc/?username=Jackrose320" alt="profile view counter">
     </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jackrose320&theme=ambient_gradient&show_icons=true" alt="stats">
+    </td>
   <tr>
 </table>
 <p align="center">Always loves to help! <em>HMU, I don't bite :)</em></p>
