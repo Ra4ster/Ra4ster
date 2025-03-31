@@ -13,6 +13,8 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="https://github.com/Jackrose320/Spam-Classifier">Spam Email Classifier</a></li>
+<li><a target="_blank" href="https://github.com/Jackrose320/Automod-Classifier">Toxic Comments Classifier</a></li>
+<li><a target="_blank" href="https://github.com/Jackrose320/Tic-Tac-Toe">Simple Tic-Tac-Toe App</li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/twitter.com/__ra4__" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@projectRA4" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
