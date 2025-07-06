@@ -1,5 +1,5 @@
-<h1>Hello, I'm Jack Rose! 👋</h1>
-<p>He/Him ♂️ | 19, Sophomore (Class of 2028) 🎓 | Student at THE Ohio State University 🎒</p>
+<h1>Hello, I'm Jack R! (Also known as Ra4) 👋</h1>
+<p>He/Him ♂️ | 20, Freshman (Class of 2028) 🎓 | Student at THE Ohio State University 🎒</p>
 <p> Here's a picture of my dog: <br>
 <img src="https://raw.githubusercontent.com/Jackrose320/Jackrose320/refs/heads/main/IMG_0153.jpg" alt="dawg" width=100></p>
 
@@ -12,13 +12,15 @@
 <a href="https://www.photoshop.com/en" target="_blank" style="display: inline-block;" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href="https://github.com/Jackrose320/Spam-Classifier">Spam Email Classifier</a></li>
-<li><a target="_blank" href="https://github.com/Jackrose320/Automod-Classifier">Toxic Comments Classifier</a></li>
-<li><a target="_blank" href="https://github.com/Jackrose320/Tic-Tac-Toe">Simple Tic-Tac-Toe App</li>
+<li><a target="_blank" href="https://github.com/Ra4ster/BeatFinder">Rhythm Game 🥁 </a></li>
+<li><a target="_blank" href="https://github.com/Ra4ster/Prism">Image Processor 📷 </a></li>
+<li><a target="_blank" href="https://github.com/Ra4ster/Spam-Classifier">Spam Email Classifier 🍖 </a></li>
+<li><a target="_blank" href="https://github.com/Ra4ster/Automod-Classifier">Toxic Comments Classifier ☣️ </a></li>
+<li><a target="_blank" href="https://github.com/Ra4ster/Tic-Tac-Toe">Simple Tic-Tac-Toe App ❌⭕ </li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/twitter.com/__ra4__" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@projectRA4" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jackrose320&theme=ambient_gradient&show_icons=true" alt="Jackrose320" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jackrose320&" alt="Jackrose320" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jackrose320&show_icons=true&locale=en&layout=compact" alt="Jackrose320" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jackrose320" alt="Jackrose320" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ra4ster&theme=ambient_gradient&show_icons=true" alt="ra4ster" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ra4ster&" alt="Jackrose320" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ra4ster&show_icons=true&locale=en&layout=compact" alt="ra4ster" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ra4ster" alt="ra4ster" /></a></p>
