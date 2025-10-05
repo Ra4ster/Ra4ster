@@ -1,5 +1,5 @@
 <h1>Hello, I'm Jack R! (Also known as Ra4) 👋</h1>
-<p>He/Him ♂️ | 20, Freshman (Class of 2028) 🎓 | Student at THE Ohio State University 🎒</p>
+<p>He/Him ♂️ | 20, Junior (Class of 2028) 🎓 | Student at THE Ohio State University 🎒</p>
 <p> Here's a picture of my dog: <br>
 <img src="https://raw.githubusercontent.com/Jackrose320/Jackrose320/refs/heads/main/IMG_0153.jpg" alt="dawg" width=100></p>
 
