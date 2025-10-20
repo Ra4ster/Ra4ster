@@ -1,26 +1,121 @@
-<h1>Hello, I'm Jack R! (Also known as Ra4) 👋</h1>
-<p>He/Him ♂️ | 20, Junior (Class of 2028) 🎓 | Student at THE Ohio State University 🎒</p>
-<p> Here's a picture of my dog: <br>
-<img src="https://raw.githubusercontent.com/Jackrose320/Jackrose320/refs/heads/main/IMG_0153.jpg" alt="dawg" width=100></p>
+<div align="center">
 
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a></p>
-<a href="https://www.photoshop.com/en" target="_blank" style="display: inline-block;" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href="https://github.com/Ra4ster/BeatFinder">Rhythm Game 🥁 </a></li>
-<li><a target="_blank" href="https://github.com/Ra4ster/Prism">Image Processor 📷 </a></li>
-<li><a target="_blank" href="https://github.com/Ra4ster/Spam-Classifier">Spam Email Classifier 🍖 </a></li>
-<li><a target="_blank" href="https://github.com/Ra4ster/Automod-Classifier">Toxic Comments Classifier ☣️ </a></li>
-<li><a target="_blank" href="https://github.com/Ra4ster/Tic-Tac-Toe">Simple Tic-Tac-Toe App ❌⭕ </li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/twitter.com/__ra4__" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@projectRA4" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ra4ster&theme=ambient_gradient&show_icons=true" alt="ra4ster" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ra4ster&" alt="Jackrose320" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ra4ster&show_icons=true&locale=en&layout=compact" alt="ra4ster" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ra4ster" alt="ra4ster" /></a></p>
+# 🌟 Welcome to Jack Rose's Profile 🌟
+
+<p><em>Data Analytics major and Philosophy minor, focused on AI & UI design.</em></p>
+
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-UI_Design-blue" alt="Focus" />
+<br/>
+<img height=200 src="https://media.licdn.com/dms/image/v2/D5603AQEBVMSw_Lf0iQ/profile-displayphoto-shrink_800_800/B56ZcaTHZ9HUAk-/0/1748492909317?e=1762387200&v=beta&t=hKlQAtOfjcWhZIOHoiO6qH6rTtcYpClgvUr1XYiOlz0" alt="Profile"/>
+
+</div>
+
+<hr>
+
+## 🔭 I'm currently working on
+
+<div align="center"><p>Working on an apps manager and task tracker using .NET WPF.</p></div>
+
+## 🌱 I'm currently learning
+
+<div align="center"><p>Learning XAML and TensorFlow side by side for visual AI communication.</p></div>
+
+## 👀 I'm interested in
+
+<div align="center"><p>UI/UX Design, Java Libraries, Computer Vision, Philosophy of Mind, Rendering</p></div>
+
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace 'Ra4ster' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Ra4ster/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
+
+## 🏆 GitHub Trophies
+
+<!-- ⚠️ Important: Replace 'Ra4ster' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ra4ster&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
+</p>
+
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'Ra4ster' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ra4ster&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🔝 Most Used Languages
+
+<!-- ⚠️ Important: Replace 'Ra4ster' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra4ster&layout=compact&langs_count=10&theme=radical"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'Ra4ster' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ra4ster&theme=radical&hide_border=false" />
+</div>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/-.NET-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&color=4169e1">
+
+### 🧠 AI/ML
+
+<img src="https://img.shields.io/badge/-TensorFlow-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Hugging Face-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Scikit-Learn-05122A?style=for-the-badge&color=00CED1">
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/-R-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C#-05122A?style=for-the-badge&color=FFA500">
+
+</div>
+
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/Ra4ster"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/jack-c-rose/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> <a href="https://twitter.com/@__ra4__"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=6bdfcf"></a> 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="center">
+
+**Email:** rose.1775@buckeyemail.osu.edu
+
+</div>
+
+## 🚀 Open Source Contributions
+
+<div align="center">
+
+**[Parsing4J](https://github.com/Ra4ster/Parsing4J)** - Parsing in Java for INI, JSON, and CSV files! Extremely simple to use.
+
+**[Custom Desktop Environment](https://github.com/Ra4ster/Custom-Desktop-Environment)** - A custom desktop environment built in Java, with a customizable taskbar, background music, background image and draggable desktop icons!
+
+**[Raytracing on a CPU (Java)](https://github.com/Ra4ster/Raytracing-in-Java-CPU-)** - A simple raytracer with an FPS counter, DSL for producing objects, and lighting all in Java's standard library (with the CPU!).
+
+**[Automod Classifier](https://github.com/Ra4ster/Automod-Classifier)** - A Logistic Regression Classifier for classifying posts as bannable offenses.
+
+</div>
+
+<div align="center">
+
+<!-- ⚠️ Important: Replace 'Ra4ster' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=Ra4ster&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/Ra4ster?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
+</div>
