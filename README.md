@@ -15,11 +15,11 @@
 
 ## 🔭 I'm currently working on
 
-<div align="center"><p>Working on an apps manager and task tracker using .NET WPF.</p></div>
+<div align="center"><p>an apps manager and task tracker using .NET WPF.</p></div>
 
 ## 🌱 I'm currently learning
 
-<div align="center"><p>Learning XAML and TensorFlow side by side for visual AI communication.</p></div>
+<div align="center"><p>XAML and TensorFlow side by side for visual AI communication.</p></div>
 
 ## 👀 I'm interested in
 
