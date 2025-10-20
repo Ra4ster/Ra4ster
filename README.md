@@ -29,7 +29,7 @@
 
 <!-- ⚠️ Important: Replace 'Ra4ster' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Ra4ster/count.svg" />
+  <img src="https://img.shields.io/badge/Profile_Views-1234-blue" />
   <br>Thank you for visiting my profile! Come back soon!
 </p>
 
