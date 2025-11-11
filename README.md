@@ -15,7 +15,7 @@
 
 ## 🔭 I'm currently working on
 
-<div align="center"><p>an apps manager and task tracker using .NET WPF.</p></div>
+<div align="center"><p>a super-small language compiler in C.</p></div>
 
 ## 🌱 I'm currently learning
 
