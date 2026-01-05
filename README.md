@@ -76,11 +76,11 @@ I enjoy building systems —from compilers to renderers and ML pipelines— whil
 
 ## 🚀 Selected Projects
 
-**[Parsing4J](https://github.com/Ra4ster/Parsing4J)**  
-Lightweight Java parsing library supporting INI, JSON, and CSV formats.
+**[City Planning Optimization](https://github.com/Ra4ster/City-Optimization-ISE3230)**  
+An optimization project on the best city planning layout using Gurubi. A version of the Set Cover problem.
 
 **[Custom Desktop Environment](https://github.com/Balcony4Windows/Railing)**  
-Experimental desktop environment in C++ featuring a modular, customizable taskbar.
+Experimental desktop environment in Windows (DirectX, Win32) featuring a modular, customizable taskbar.
 
 **[CPU Raytracer (Java)](https://github.com/Ra4ster/Raytracing-in-Java-CPU-)**  
 Software raytracer using Java’s standard library, including a DSL, lighting model, and FPS tracking.
