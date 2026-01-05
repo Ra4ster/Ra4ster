@@ -1,116 +1,141 @@
 <div align="center">
 
-# 🌟 Welcome to Jack Rose's Profile 🌟
+# Jack Rose
 
-<p><em>Data Analytics major and Philosophy minor, focused on AI & UI design.</em></p>
+**Data Analytics Major · Philosophy Minor**  
+*AI Systems · UI/UX · Rendering · Low-Level Engineering*
 
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-UI_Design-blue" alt="Focus" />
+<img src="https://img.shields.io/badge/Open_to-Collaboration-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Primary_Focus-UI_Design-blue?style=for-the-badge" />
+
+<br/><br/>
+
+<img
+  src="https://github.com/Ra4ster.png"
+  height="180"
+  style="border-radius: 50%; border: 3px solid #8a2be2;"
+/>
+
+</div>
+
+---
+
+## 👋 About Me
+
+I am a technically driven developer with interests at the intersection of:
+
+- **AI & Machine Learning**
+- **UI/UX and Human-Centered Design**
+- **Low-level systems programming**
+- **Rendering pipelines and graphics APIs**
+- **Philosophy of mind and cognition**
+
+I enjoy building systems —from compilers to renderers and ML pipelines— while maintaining a strong focus on ontology and performance.
+
+---
+
+## 🔭 Current Work
+
+- Designing a **minimal language compiler in C**
+- Exploring **graphics pipelines** and low-level rendering abstractions
+- Refining **UI systems** with performance and accessibility in mind
+
+---
+
+## 🌱 Currently Learning
+
+- **PyTorch** for Computer Vision and applied ML
+- GPU-adjacent workflows and performance profiling
+- Advanced architectural patterns for interactive systems
+
+---
+
+## 💻 Technical Stack
+
+### Languages
+- C / C++ 
+- Java
+- Python
+- R
+- Rust (Learning)
+
+### AI / Data
+- PyTorch
+- Gurobi
+- OpenCV
+- Scikit-learn
+- Pandas
+
+### Backend / Systems
+- cBLAS
+- Spring
+- Custom tooling & parsers
+- Native rendering and windowing systems
+
+---
+
+## 🚀 Selected Projects
+
+**[Parsing4J](https://github.com/Ra4ster/Parsing4J)**  
+Lightweight Java parsing library supporting INI, JSON, and CSV formats.
+
+**[Custom Desktop Environment](https://github.com/Balcony4Windows/Railing)**  
+Experimental desktop environment in C++ featuring a modular, customizable taskbar.
+
+**[CPU Raytracer (Java)](https://github.com/Ra4ster/Raytracing-in-Java-CPU-)**  
+Software raytracer using Java’s standard library, including a DSL, lighting model, and FPS tracking.
+
+**[Automod Classifier](https://github.com/Ra4ster/Automod-Classifier)**  
+Logistic regression classifier for identifying moderation violations.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/Ra4ster?style=flat-square)
+![Stars](https://img.shields.io/github/stars/Ra4ster?style=flat-square)
+
 <br/>
-<img height=200 src="https://media.licdn.com/dms/image/v2/D5603AQEBVMSw_Lf0iQ/profile-displayphoto-shrink_800_800/B56ZcaTHZ9HUAk-/0/1748492909317?e=1762387200&v=beta&t=hKlQAtOfjcWhZIOHoiO6qH6rTtcYpClgvUr1XYiOlz0" alt="Profile"/>
+
+![Repos](https://img.shields.io/badge/Public_Repos-View-blue?style=flat-square)
 
 </div>
 
-<hr>
+---
 
-## 🔭 I'm currently working on
-
-<div align="center"><p>a super-small language compiler in C.</p></div>
-
-## 🌱 I'm currently learning
-
-<div align="center"><p>PyTorch for Computer Vision and ML.</p></div>
-
-## 👀 I'm interested in
-
-<div align="center"><p>UI/UX Design, DirectX API, Computer Vision, Philosophy of Mind, Rendering</p></div>
-
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-1234-blue" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ra4ster&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
-</p>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ra4ster&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-
-## 🔝 Most Used Languages
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra4ster&layout=compact&langs_count=10&theme=radical"/>
-</div>
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ra4ster&theme=radical&hide_border=false" />
-</div>
-
-## 💻 Tech Stack
+## 🌐 Connect With Me
 
 <div align="center">
 
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/-.NET-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&color=4169e1">
-
-### 🧠 AI/ML
-
-<img src="https://img.shields.io/badge/-TensorFlow-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Hugging Face-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Scikit-Learn-05122A?style=for-the-badge&color=00CED1">
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/-R-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C#-05122A?style=for-the-badge&color=FFA500">
+<a href="https://github.com/Ra4ster">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/jack-c-rose/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/ra44ytaffy">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 
 </div>
 
-## 🌐 Socials
+---
+
+## 📫 Contact
+
+**Email:** rose.05.ra4@outlook.com
+**Discord:** ra4
+
+*Feel Free to shoot me a message on here as well!*
+
+---
 
 <div align="center">
 
-<a href="https://github.com/Ra4ster"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/jack-c-rose/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> <a href="https://twitter.com/@__ra4__"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=6bdfcf"></a> 
+<img src="https://komarev.com/ghpvc/?username=Ra4ster&style=flat-square&color=blueviolet" />
 
-</div>
-
-## 📫 How to reach me
-
-<div align="center">
-
-**Email:** rose.1775@buckeyemail.osu.edu
-
-</div>
-
-## 🚀 Open Source Contributions
-
-<div align="center">
-
-**[Parsing4J](https://github.com/Ra4ster/Parsing4J)** - Parsing in Java for INI, JSON, and CSV files! Extremely simple to use.
-
-**[Custom Desktop Environment](https://github.com/Balcony4Windows/Railing)** - A custom desktop environment built in C++, with a customizable taskbar (WIP, for now).
-
-**[Raytracing on a CPU (Java)](https://github.com/Ra4ster/Raytracing-in-Java-CPU-)** - A simple raytracer with an FPS counter, DSL for producing objects, and lighting all in Java's standard library (with the CPU!).
-
-**[Automod Classifier](https://github.com/Ra4ster/Automod-Classifier)** - A Logistic Regression Classifier for classifying posts as bannable offenses.
-
-</div>
-
-<div align="center">
-
-<!-- ⚠️ Important: Replace 'Ra4ster' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=Ra4ster&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-<img src="https://img.shields.io/github/followers/Ra4ster?style=for-the-badge&color=ff69b4" alt="Followers"/>
-
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+*Always interested in detail-oriented collaboration and technically ambitious projects.*
 
 </div>
