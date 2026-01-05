@@ -19,15 +19,14 @@
 
 ## 🌱 I'm currently learning
 
-<div align="center"><p>XAML and TensorFlow side by side for visual AI communication.</p></div>
+<div align="center"><p>PyTorch for Computer Vision and ML.</p></div>
 
 ## 👀 I'm interested in
 
-<div align="center"><p>UI/UX Design, Java Libraries, Computer Vision, Philosophy of Mind, Rendering</p></div>
+<div align="center"><p>UI/UX Design, DirectX API, Computer Vision, Philosophy of Mind, Rendering</p></div>
 
 ## 👀 Visitor Count
 
-<!-- ⚠️ Important: Replace 'Ra4ster' with your actual GitHub username in the URL below -->
 <p align="center">
   <img src="https://img.shields.io/badge/Profile_Views-1234-blue" />
   <br>Thank you for visiting my profile! Come back soon!
@@ -35,28 +34,24 @@
 
 ## 🏆 GitHub Trophies
 
-<!-- ⚠️ Important: Replace 'Ra4ster' with your actual GitHub username in the URL below -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ra4ster&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ Important: Replace 'Ra4ster' with your actual GitHub username in the URL below -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ra4ster&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
-<!-- ⚠️ Important: Replace 'Ra4ster' with your actual GitHub username in the URL below -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra4ster&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ## 🔥 Contribution Streak
 
-<!-- ⚠️ Important: Replace 'Ra4ster' with your actual GitHub username in the URL below -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ra4ster&theme=radical&hide_border=false" />
 </div>
@@ -101,7 +96,7 @@
 
 **[Parsing4J](https://github.com/Ra4ster/Parsing4J)** - Parsing in Java for INI, JSON, and CSV files! Extremely simple to use.
 
-**[Custom Desktop Environment](https://github.com/Ra4ster/Custom-Desktop-Environment)** - A custom desktop environment built in Java, with a customizable taskbar, background music, background image and draggable desktop icons!
+**[Custom Desktop Environment](https://github.com/Balcony4Windows/Railing)** - A custom desktop environment built in C++, with a customizable taskbar (WIP, for now).
 
 **[Raytracing on a CPU (Java)](https://github.com/Ra4ster/Raytracing-in-Java-CPU-)** - A simple raytracer with an FPS counter, DSL for producing objects, and lighting all in Java's standard library (with the CPU!).
 
