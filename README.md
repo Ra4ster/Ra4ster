@@ -54,7 +54,7 @@
 
 <table><tr>
 
-<td><a href="https://open.spotify.com/album/74RFe9VB8MhIflm2RWf8eO"><img alt="P*ss in the Wind"
+<td><a href="https://www.youtube.com/watch?v=-U_uAicAjh8"><img alt="P*ss in the Wind"
 src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fs3.amazonaws.com%2Frapgenius%2FWoodkid_TheGoldenAge.png&f=1&nofb=1&ipt=924217cf43ba80893faa5f4222dab30799efe8b40da7a58fd50e74707cf3f642"
 width="128px" /></a></td>
 
