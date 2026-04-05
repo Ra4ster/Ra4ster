@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA3NzIyMTksIm5iZiI6MTc3MDc3MTkxOSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjExVDAxMDUxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmOGFjNmJhYzZmYTg0MzVmZDk5NjM5NGQwZGU1OGQ5MjE3ZGVhMmViOWZjYWFiZDc2NDlmODY2YzgyMDNlM2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.g6PNJGvC0WOZxBCSsHUHPDb-9U5qoPES-Ya6ifEDU8w" width="100px"/></div>
 
-**Data Analytics Senior @ OSU** | Passionate about **Machine Learning & SIMD Optimizations**
+**Data Analytics Junior @ OSU** | Passionate about **Machine Learning & SIMD Optimizations**
 
 ---
 
@@ -11,7 +11,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jackrose4501)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-c-rose/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://httpcats.com/501)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=github&logoColor=white)](http://github.com/ra4ster)
 
 ---
 
@@ -55,12 +55,12 @@
 <table><tr>
 
 <td><a href="https://open.spotify.com/album/74RFe9VB8MhIflm2RWf8eO"><img alt="P*ss in the Wind"
-src="https://www.roughtrade.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0867%2F1120%2F6219%2Ffiles%2FJOJI_LP4_PACKSHOT_CD_STANDARD_1.jpg%3Fv%3D1762266629&w=3840&q=75"
+src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fs3.amazonaws.com%2Frapgenius%2FWoodkid_TheGoldenAge.png&f=1&nofb=1&ipt=924217cf43ba80893faa5f4222dab30799efe8b40da7a58fd50e74707cf3f642"
 width="128px" /></a></td>
 
 <td align="center" valign="top">
-    <h4>P*ss In The Wind</h4>
-    <div>Joji</div>
+    <h4>Ghost Lights</h4>
+    <div>Woodkid</div>
     <img src="https://png.pngtree.com/png-vector/20220719/ourmid/pngtree-sound-wave-vector-icon-stereo-equipment-concept-vector-png-image_37856788.png" height="64px" width="200px">
 </td>
 </tr></table>
@@ -68,7 +68,7 @@ width="128px" /></a></td>
 ---
 
 <div align="center">
-    <i>“Striving to write optimized, clean, and parallelized code while exploring the depths of ML & data analytics.”</i>
+    <i>“The real problem is not whether machines think but whether men do.”</i>
     <br /><br /> 
     <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 </div>
