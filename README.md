@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA3NzIyMTksIm5iZiI6MTc3MDc3MTkxOSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjExVDAxMDUxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmOGFjNmJhYzZmYTg0MzVmZDk5NjM5NGQwZGU1OGQ5MjE3ZGVhMmViOWZjYWFiZDc2NDlmODY2YzgyMDNlM2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.g6PNJGvC0WOZxBCSsHUHPDb-9U5qoPES-Ya6ifEDU8w" width="100px"/></div>
 
-**Data Analytics Junior @ OSU** | Passionate about **Machine Learning & SIMD Optimizations**
+**Data Analytics Senior @ OSU** | Passionate about **Machine Learning & SIMD Optimizations**
 
 ---
 
@@ -54,13 +54,13 @@
 
 <table><tr>
 
-<td><a href="https://www.youtube.com/watch?v=-U_uAicAjh8"><img alt="P*ss in the Wind"
-src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fs3.amazonaws.com%2Frapgenius%2FWoodkid_TheGoldenAge.png&f=1&nofb=1&ipt=924217cf43ba80893faa5f4222dab30799efe8b40da7a58fd50e74707cf3f642"
+<td><a href="https://youtu.be/KqMOKCRgvD8?si=KQUSeA9t-SyqtMr6"><img alt="Baby Doll"
+src="https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616"
 width="128px" /></a></td>
 
 <td align="center" valign="top">
-    <h4>Ghost Lights</h4>
-    <div>Woodkid</div>
+    <h4>Baby Doll</h4>
+    <div>Dominic Fike</div>
     <img src="https://png.pngtree.com/png-vector/20220719/ourmid/pngtree-sound-wave-vector-icon-stereo-equipment-concept-vector-png-image_37856788.png" height="64px" width="200px">
 </td>
 </tr></table>
