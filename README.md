@@ -21,7 +21,7 @@
 - [**ONNX Content Moderation Classifier**](https://github.com/Ra4ster/Automod-Classifier)
 - [**City Optimization**](https://github.com/Ra4ster/City-Optimization-ISE3230) — Optimal layout analysis for city planners
 - [**Parallelized Levenshtein Distance Calculator**](https://github.com/Ra4ster/Optimized-Levenshtein-Distance)
-- [**Heavily Parallelized Matrix Multiplier**](https://github.com/Ra4ster/CSE2421-Lab6) — Performance vs. cBLAS
+- [**Predictive Coding Library**](https://github.com/Ra4ster/Deepity)
 
 ---
 
