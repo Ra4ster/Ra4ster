@@ -29,9 +29,6 @@ Outside of programming, I like anime, science fiction, and generally going down 
 
 ### 🐔 [Deepity](https://github.com/ra4ster/deepity)
 
-<img src="assets/deepity.png" alt="Deepity" width="400" />
-<br /><br />
-
 A lightweight, performance-oriented machine learning and approximate-nearest-neighbor library.
 
 Deepity is written with a focus on efficient numerical computation and makes use of **OpenBLAS** and **OpenMP** for performance-critical operations, with additional support for other numerical backends where useful.
@@ -44,17 +41,11 @@ The project is an ongoing exploration of how much performance can be extracted f
 
 ### 🪟 [Balcony](https://github.com/Balcony4Windows/Railing)
 
-<img src="assets/balcony.png" alt="Balcony" width="600" />
-<br /><br />
-
 A Windows Shell replacement exploring native desktop development and Windows system integration.
 
 `C++` · `Windows` · `Systems Programming`
 
 ### 🛡️ [ONNX Content Moderation Classifier](https://github.com/Ra4ster/Automod-Classifier)
-
-<img src="assets/Automod.png" alt="automod" width="400">
-<br /><br />
 
 A content moderation classifier using ONNX for model inference and deployment.
 
@@ -62,17 +53,11 @@ A content moderation classifier using ONNX for model inference and deployment.
 
 ### 🏙️ [City Optimization](https://github.com/Ra4ster/City-Optimization-ISE3230)
 
-<img src="assets/cityoptimization.png" alt="City Optimization" width="400" />
-<br /><br />
-
 An optimization project exploring effective layouts and resource placement for urban environments.
 
 `Optimization` · `Data Analysis` · `Statistical Modeling`
 
 ### ⚡ [Parallelized Levenshtein Distance](https://github.com/Ra4ster/Optimized-Levenshtein-Distance)
-
-<img src="assets/editdistance.jpg" alt="Edit Distance" width="400">
-<br /><br />
 
 An exploration of parallel approaches to accelerating Levenshtein distance calculations.
 
