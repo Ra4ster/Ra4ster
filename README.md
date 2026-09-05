@@ -9,8 +9,9 @@
 Machine Learning · High-Performance Computing · Statistical Modeling · Computer Vision
 </p>
 
-<img src="pfp.jpg" width="180" alt="Profile Picture" />
-
+<a href="https://ra4ster.github.io">
+  <img src="pfp.jpg" width="180" alt="Profile Picture" />
+</a>
 </div>
 
 ## 🧠 About Me
@@ -27,7 +28,7 @@ Outside of programming, I like anime, science fiction, and generally going down 
 
 ## 🔬 Current Project
 
-### 🐔 [Deepity](https://github.com/ra4ster/deepity)
+### 🔮 [Deepity](https://github.com/ra4ster/deepity)
 
 A lightweight, performance-oriented machine learning and approximate-nearest-neighbor library.
 
@@ -90,7 +91,8 @@ An exploration of parallel approaches to accelerating Levenshtein distance calcu
 ![R](https://img.shields.io/badge/R-8B5CF6?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-8B5CF6?style=for-the-badge&logo=css&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-8B5CF6?style=for-the-badge&logo=nvidia&logoColor=white)
 
 </div>
 
@@ -116,8 +118,8 @@ An exploration of parallel approaches to accelerating Levenshtein distance calcu
 ![Intel MKL](https://img.shields.io/badge/Intel%20MKL-8B5CF6?style=for-the-badge&logo=intel&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-8B5CF6?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-8B5CF6?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-8B5CF6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Fedora-8B5CF6?style=for-the-badge&logo=fedora&logoColor=white)
+![Windows](https://custom-icon-badges.demolab.com/badge/windows-8B5CF6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-8B5CF6?style=for-the-badge&logo=vim&logoColor=white)
 
 </div>
@@ -147,8 +149,8 @@ An exploration of parallel approaches to accelerating Levenshtein distance calcu
 
 <div align="center">
 
-![Tableau](https://img.shields.io/badge/Tableau-20232A?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-20232A?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-20232A?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 </div>
 
@@ -158,8 +160,8 @@ An exploration of parallel approaches to accelerating Levenshtein distance calcu
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-8B5CF6?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-8B5CF6?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8B5CF6?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-8B5CF6?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-8B5CF6?style=for-the-badge&logo=docker&logoColor=white)
 
