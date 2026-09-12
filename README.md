@@ -217,3 +217,5 @@ El. Psy. Kongroo.
 <img src="assets/snake-animation.svg" alt="GitHub contribution snake" width="800">
 
 </div>
+
+> **Status**: Currently available for hire! ✔️
